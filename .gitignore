@@ -1,0 +1,16 @@
+﻿# data and everything built from it (competition data, too big for github anyway)
+student_resource/
+__MACOSX/
+clean/
+clean_test/
+output/
+submission/
+*.parquet
+*.pkl
+*.tsv
+*.zip
+
+# junk
+__pycache__/
+tempCodeRunnerFile.python
+step1baseline.py
